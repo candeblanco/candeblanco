@@ -9,7 +9,7 @@ Estudiante avanzada de Ingeniería en Sistemas con interés en **Big Data, Data 
 
 Me destaco por mi **pensamiento lógico, resolución de problemas, organización y comunicación efectiva**, cualidades que me permiten adaptarme a entornos dinámicos y colaborar en equipos multidisciplinarios.  
 
-Busco integrarme en un entorno profesional desafiante donde pueda aportar y seguir desarrollándome tanto profecional como personalmente.  
+Busco integrarme en un entorno profesional desafiante donde pueda aportar y seguir desarrollándome tanto profesional como personalmente.  
 
 ---
 
