@@ -1,4 +1,6 @@
 # Candelaria Blanco  
+Ayudante de Ing. en Sistemas
+
 Montevideo, Uruguay | [LinkedIn](https://uy.linkedin.com/in/candelaria-blanco-hernandez-399148250) | blancocande2002@gmail.com  
 
 ---
