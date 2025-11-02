@@ -14,7 +14,7 @@ Busco integrarme en un entorno profesional desafiante donde pueda aportar y segu
 ---
 
 ## Educación  
-- **Ingeniería en Sistemas** (en curso, 32/44 exoneradas) | Universidad ORT Uruguay  
+- **Ingeniería en Sistemas** (en curso, 33/44 exoneradas) | Universidad ORT Uruguay  
   – Título intermedio: *Ayudante de Ingeniería en Sistemas* (feb 2024).  
 - **Certificación en Informática Aplicada** | Universidad Católica del Uruguay (UCU).  
 - **ECPE Level (C2 – Proficiency in English)** | University of Michigan.  
