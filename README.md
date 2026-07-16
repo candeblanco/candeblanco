@@ -14,7 +14,8 @@ Busco integrarme en un entorno profesional desafiante donde pueda aportar y segu
 ---
 
 ## Educación  
-- **Ingeniería en Sistemas** (en curso, 38/44 exoneradas) | Universidad ORT Uruguay  
+- **Ingeniería en Sistemas** (en curso, 41/44 exoneradas) | Universidad ORT Uruguay
+  – Título intermedio: *Licenciatura en Ingeniería de Software* (jul 2026).  
   – Título intermedio: *Ayudante de Ingeniería en Sistemas* (feb 2024).  
 - **Certificación en Informática Aplicada** | Universidad Católica del Uruguay (UCU).  
 - **ECPE Level (C2 – Proficiency in English)** | University of Michigan.  
@@ -40,14 +41,13 @@ Busco integrarme en un entorno profesional desafiante donde pueda aportar y segu
 ## Experiencia Académica Relevante  
 
 **Proyectos universitarios destacados en el área de datos y programación:** 
-- **Bases de datos (SQL/MySQL)**: creación y mantenimiento de bases de datos relacionales, consultas SQL y fundamentos teóricos de modelado y normalización. 
-- **Análisis de datos con Python/Jupyter**: limpieza, normalización, visualización y modelado básico de datasets.  
-- **Data Mining**: implementación de algoritmos de clasificación y detección de outliers.  
-- **Power BI**: desarrollo de dashboards interactivos para la toma de decisiones.  
+- **Bases de datos relacionales**: creación y mantenimiento de bases de datos relacionales, consultas SQL y fundamentos teóricos de modelado y normalización. 
+- **Data Mining**: implementación de algoritmos utilizando técnicas de DM para la generación de información útil para la toma de decisiones.   
+- **Visualización y storytelling**: creación de dashboards e informes aplicando principios de Gestalt y comunicación efectiva.
+- **Data Warehouse y ETL**: modelado dimensional, procesos ETL completos y controles de calidad de datos.
+- **GitHub**: uso diario para control de versiones y trabajo colaborativo.
+- **Docker y AWS**: conocimientos de contenedores y despliegue básico de aplicaciones.
 - **.NET (C#)**: optimización y buenas prácticas en el desarrollo de aplicaciones.  
-- **APIs REST**: diseño de endpoints, integración de servicios y manejo de datos en distintos contextos.  
-- **Estadística y probabilidad aplicada**: fundamentos para modelos y algoritmos.
-- **Conocimientos Docker**: uso y creación de imágenes/contenedores.
 
 ---
 
