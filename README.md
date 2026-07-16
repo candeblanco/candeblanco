@@ -15,6 +15,7 @@ Busco integrarme en un entorno profesional desafiante donde pueda aportar y segu
 
 ## Educación  
 - **Ingeniería en Sistemas** (en curso, 41/44 exoneradas) | Universidad ORT Uruguay
+
   – Título intermedio: *Licenciatura en Ingeniería de Software* (jul 2026).  
   – Título intermedio: *Ayudante de Ingeniería en Sistemas* (feb 2024).  
 - **Certificación en Informática Aplicada** | Universidad Católica del Uruguay (UCU).  
