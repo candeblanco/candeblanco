@@ -5,7 +5,7 @@ Montevideo, Uruguay | [LinkedIn](https://uy.linkedin.com/in/candelaria-blanco-he
 ---
 
 ## Perfil Profesional
-Estudiante avanzada de Ingeniería en Sistemas con interés en **Big Data, Data Science, Data Mining y Analítica de Datos**.  
+Estudiante avanzada de Ingeniería en Sistemas con interés en **Data Engineering, Data Science, Data Analytics y ML**.  
 
 Me destaco por mi **pensamiento lógico, resolución de problemas, organización y comunicación efectiva**, cualidades que me permiten adaptarme a entornos dinámicos y colaborar en equipos multidisciplinarios.  
 
